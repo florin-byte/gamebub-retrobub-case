@@ -44,6 +44,18 @@ Start, Select and Home use the printed buttons from Eli's repository ([`3d/handh
 - **Default:** 0.4 mm nozzle, 0.20 mm layers, 3 walls, 20 % infill, textured PEI plate.
 - **0.2 mm nozzle:** 0.10 mm layers, for crisper inlays and text. The parts themselves look almost the same with either nozzle.
 
+## Shoulder buttons
+
+The shoulder buttons sit on printed PETG V-springs, two per side. The springs fill the full width of the pocket in the rear shell, and the button stem (Ø3.5 mm) goes through the spring and presses the PCB's shoulder switch.
+
+![Shoulder spring at rest and pressed](images/shoulder-spring-rest-pressed.jpg)
+
+*Test print. The shoulder button shown is an earlier version; the current one has a larger, thicker cap.*
+
+| | |
+|---|---|
+| ![Spring installed](images/shoulder-spring-installed-1.jpg) | ![Spring installed, other side](images/shoulder-spring-installed-2.jpg) |
+
 ## Hardware
 
 Besides the Game Bub rev2 PCB, LCD (ER-TFT035IPS-6), battery and speakers from [Eli's build guide](https://github.com/elipsitz/gamebub/blob/main/docs/building.md):
@@ -67,6 +79,12 @@ Besides the Game Bub rev2 PCB, LCD (ER-TFT035IPS-6), battery and speakers from [
 5. Insert the volume rocker and the power button into their slots.
 6. Assemble the shoulder buttons and springs into the rear shell pockets.
 7. Close the case with the rear bottom part (4 × M2.5 × 14) and the top cover (2 × M2.5 × 5). The cover's lip goes over the front.
+
+### More photos
+
+| | | |
+|---|---|---|
+| ![White front, printed](images/white-front-printed.jpg) | ![White front, inside](images/white-front-inside.jpg) | ![White rear parts, inside](images/white-rear-inside.jpg) |
 
 ## Credits and license
 
