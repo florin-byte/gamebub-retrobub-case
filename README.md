@@ -99,6 +99,7 @@ Besides the Game Bub rev2 PCB, LCD (ER-TFT035IPS-6), battery and speakers from [
 | | | |
 |---|---|---|
 | ![White front, printed](images/white-front-printed.jpg) | ![White front, inside](images/white-front-inside.jpg) | ![White rear parts, inside](images/white-rear-inside.jpg) |
+| ![Blue printed parts, outside](images/printed-parts-outside.jpg) | ![Blue front, printed](images/front-printed.jpg) | ![White and blue, angle](images/white-and-blue-angle.jpg) |
 
 ## Credits and license
 
