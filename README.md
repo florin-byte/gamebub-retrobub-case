@@ -13,6 +13,8 @@ Firmware for the device: [retrobub-firmware](https://github.com/florin-byte/retr
 
 ![White and blue builds](images/white-and-blue.jpg)
 
+*The assembled blue case was printed with a 0.2 mm nozzle (P1S); the unassembled blue parts further down with a 0.4 mm nozzle. The white case was printed with a 0.4 mm nozzle (U1).*
+
 | | |
 |---|---|
 | ![Blue front](images/blue-front.jpg) | ![Blue back](images/blue-back.jpg) |
@@ -51,6 +53,7 @@ The two cases from the photos are in [`3mf/`](3mf). In each project all three ca
 | Project | Printer | Filament slots |
 |---|---|---|
 | `retrobub-clouds-P1S-0.4mm.3mf` (blue with clouds) | Bambu Lab P1S + AMS, 0.4 mm nozzle (about 2 h 35 min) | 1 Bambu PLA Tough+ blue (body), 2 white (clouds, logo), 3 black (screen mask under the glass), 4 Bambu Support for PLA (support interface under the LCD ledge) |
+| `retrobub-clouds-P1S-0.2mm.3mf` (blue with clouds, sharper logo and clouds) | Bambu Lab P1S + AMS, 0.2 mm nozzle, 0.10 mm layers (about 14 h 30 min) | Same slots as the 0.4 mm version |
 | `retrobub-classic-U1-0.4mm.3mf` (white with stripes) | Snapmaker U1, 0.4 mm nozzles (about 2 h) | Head 1 white (front, rear bottom, supports), 2 red (stripe, "FPGA"), 3 black (stripe, logo, screen mask, top cover); head 4 unused |
 
 When you open a project, sync the filaments with your AMS or toolheads, and check that each colour is in the right slot.
