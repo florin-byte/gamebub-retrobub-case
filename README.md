@@ -44,6 +44,17 @@ Start, Select and Home use the printed buttons from Eli's repository ([`3d/handh
 - **Default:** 0.4 mm nozzle, 0.20 mm layers, 3 walls, 20 % infill, textured PEI plate.
 - **0.2 mm nozzle:** 0.10 mm layers, for crisper inlays and text. The parts themselves look almost the same with either nozzle.
 
+## Ready-to-print colour projects (3MF)
+
+The two cases from the photos are in [`3mf/`](3mf). In each project all three case parts (front, rear bottom, top cover) are already placed on one plate, with the colour parts and print settings. The logo and graphics are 0.4 mm inlays printed on the build plate.
+
+| Project | Printer | Filament slots |
+|---|---|---|
+| `retrobub-clouds-P1S-0.4mm.3mf` (blue with clouds) | Bambu Lab P1S + AMS, 0.4 mm nozzle (about 2 h 35 min) | 1 Bambu PLA Tough+ blue (body), 2 white (clouds, logo), 3 black (screen mask under the glass), 4 Bambu Support for PLA (support interface under the LCD ledge) |
+| `retrobub-classic-U1-0.4mm.3mf` (white with stripes) | Snapmaker U1, 0.4 mm nozzles (about 2 h) | Head 1 white (front, rear bottom, supports), 2 red (stripe, "FPGA"), 3 black (stripe, logo, screen mask, top cover); head 4 unused |
+
+When you open a project, sync the filaments with your AMS or toolheads, and check that each colour is in the right slot.
+
 ## Shoulder buttons
 
 The shoulder buttons sit on printed PETG V-springs, one per side. Each spring fills the full width of the pocket in the rear shell, and the button stem (Ø3.5 mm) goes through the spring and presses the PCB's shoulder switch.
