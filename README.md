@@ -46,7 +46,7 @@ Start, Select and Home use the printed buttons from Eli's repository ([`3d/handh
 
 ## Shoulder buttons
 
-The shoulder buttons sit on printed PETG V-springs, two per side. The springs fill the full width of the pocket in the rear shell, and the button stem (Ø3.5 mm) goes through the spring and presses the PCB's shoulder switch.
+The shoulder buttons sit on printed PETG V-springs, one per side. Each spring fills the full width of the pocket in the rear shell, and the button stem (Ø3.5 mm) goes through the spring and presses the PCB's shoulder switch.
 
 ![Shoulder spring at rest and pressed](images/shoulder-spring-rest-pressed.jpg)
 
