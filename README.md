@@ -1,6 +1,15 @@
 # Retro Bub: Game Bub rev2 case
 
-A redesigned 3D-printed case for the [Game Bub](https://github.com/elipsitz/gamebub) rev2 handheld by Eli Lipsitz. It keeps the original vertical layout and PCB and adds:
+**A redesigned Game Bub rev2 case, optimized for FDM 3D printing.**
+
+This is a redesigned case for the [Game Bub](https://github.com/elipsitz/gamebub) rev2 handheld by Eli Lipsitz, made to print well on ordinary desktop FDM printers (developed and tested on a Bambu Lab P1S and a Snapmaker U1). Every part was designed for FDM and then printed, assembled and adjusted until it worked:
+
+- **Print orientation:** each part has a flat face on the build plate. Only the front needs supports, and only under the screen ledge.
+- **Printable geometry:** chamfers instead of rounded edges on the plate side, and wall thicknesses sized to whole extrusion lines.
+- **Fits:** the clearances for buttons, springs, inserts and the cover joint were checked on real prints, not only in CAD.
+- **Graphics:** logos and graphics are printed as colour inlays in the first layers on the plate, so they come out sharp without painting.
+
+It keeps the original vertical layout and PCB and adds:
 
 - **New 3DS screen glass:** a flat front for a standard New 3DS (2015, small) top-screen replacement lens, 91 × 57 × 1.0 mm.
 - **Nintendo buttons:** pockets for aftermarket New 3DS XL ABXY / D-pad buttons on Nintendo DSi membranes.
