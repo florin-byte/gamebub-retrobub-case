@@ -4,7 +4,7 @@
 
 This is a redesigned case for the [Game Bub](https://github.com/elipsitz/gamebub) rev2 handheld by Eli Lipsitz, made to print well on ordinary desktop FDM printers (developed and tested on a Bambu Lab P1S and a Snapmaker U1). Every part was designed for FDM and then printed, assembled and adjusted until it worked:
 
-- **Print orientation:** each part has a flat face on the build plate. Only the front needs supports, and only under the screen ledge.
+- **Print orientation:** each part has a flat face on the build plate. Only two parts need supports: the front (under the screen ledge) and the small D-pad adapter.
 - **Printable geometry:** chamfers instead of rounded edges on the plate side, and wall thicknesses sized to whole extrusion lines.
 - **Fits:** the clearances for buttons, springs, inserts and the cover joint were checked on real prints, not only in CAD.
 - **Graphics:** logos and graphics are printed as colour inlays in the first layers on the plate, so they come out sharp without painting.
